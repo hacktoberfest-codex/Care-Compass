@@ -22,7 +22,7 @@ Our cutting-edge healthcare platform is designed to make your experience as effi
 _______________________________________________________________________________________________________________________________________________________________________
 SOVAN MOHANTY => Schema Model and Ml model
 
-RAMBHA JHA => Documentation, flowchart, Research and Ml model 
+RAMBHA JHA => Documentation, Flowchart and Ml model 
 
 AKASH PARIDA => UI/UX designing and Reactjs Frontend
 
@@ -31,5 +31,3 @@ BALAJI ARYAN => Flutter app development
 ANIRBAN BOSE => Java backend
 
 ABHISHEK SHARMA => Reactjs Frontend
-
-RAMBHA JHA => Documentation, Flowchart, and Ml model 
