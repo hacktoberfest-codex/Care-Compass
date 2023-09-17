@@ -2,7 +2,7 @@
 ## Care Compass
 
 A Doctor-Patient Interface.
-![Logo](carecompass.png)
+![Logo](carecompass.jpg)
 
 Are you tired of long wait times, confusing paperwork, and unnecessary delays when it comes to your healthcare? We understand how valuable your time is, and that's why we're here to revolutionize your healthcare journey.
 
