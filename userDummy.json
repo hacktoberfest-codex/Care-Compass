@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Akash Kumar Parida",
+        "email": "akashakp0037@gmail.com",
+        "password": "@#$%^&*",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Sovan Mohanty",
+        "email": "sovan@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Abhisek Sharma",
+        "email": "abhisek@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Areeyan",
+        "email": "areeyan@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Rambha Jha",
+        "email": "rambha@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Abhinav",
+        "email": "abhinav@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Ashutosh",
+        "email": "ashutosh@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Ashish",
+        "email": "ashish@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Person",
+        "email": "person@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Neha",
+        "email": "neha@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Arpita",
+        "email": "arpita@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    },
+    {
+        "name": "Baisakhi",
+        "email": "baisakhi@gmail.com",
+        "password": "password",
+        "isAdmin": false,
+        "isDoctor": false,
+        "notification": [
+            {
+                "type": "alert",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ],
+        "seennotification": [
+            {
+                "type": "message",
+                "content": "Message from Doctor.",
+                "timestamp": "2023-09-17T15:30:00+05:30"
+            }
+        ]
+    }
+]

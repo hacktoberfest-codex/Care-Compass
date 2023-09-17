@@ -1,0 +1,145 @@
+[
+    {
+        "patient_id": 1001,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": false,
+            "children_ward": false
+        },
+        "room_no": 201,
+        "rate": 2000,
+        "date_admited": 20230917,
+        "date_discharged": 20230918
+    },
+    {
+        "patient_id": 1002,
+        "room_type": {
+            "ac": false,
+            "non_ac": true,
+            "general": false,
+            "children_ward": false
+        },
+        "room_no": 202,
+        "rate": 13000,
+        "date_admited": 20230915,
+        "date_discharged": 20230917
+    },
+    {
+        "patient_id": 1003,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": true,
+            "children_ward": false
+        },
+        "room_no": 100,
+        "rate": 2000,
+        "date_admited": 20230917,
+        "date_discharged": 20230918
+    },
+    {
+        "patient_id": 1004,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": true,
+            "children_ward": false
+        },
+        "room_no": 203,
+        "rate": 2000,
+        "date_admited": 20230910,
+        "date_discharged": 20230917
+    },
+    {
+        "patient_id": 1005,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": false,
+            "children_ward": false
+        },
+        "room_no": 202,
+        "rate": 2000,
+        "date_admited": 20230905,
+        "date_discharged": 20230916
+    },
+    {
+        "patient_id": 1006,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": false,
+            "children_ward": false
+        },
+        "room_no": 205,
+        "rate": 2000,
+        "date_admited": 20230917,
+        "date_discharged": 20230920
+    },
+    {
+        "patient_id": 1007,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": false,
+            "children_ward": false
+        },
+        "room_no": 222,
+        "rate": 2000,
+        "date_admited": 20230915,
+        "date_discharged": 20230915
+    },
+    {
+        "patient_id": 1008,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": false,
+            "children_ward": false
+        },
+        "room_no": 101,
+        "rate": 2000,
+        "date_admited": 20230920,
+        "date_discharged": 20230922
+    },
+    {
+        "patient_id": 1009,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": false,
+            "children_ward": false
+        },
+        "room_no": 101,
+        "rate": 2000,
+        "date_admited": 20230922,
+        "date_discharged": 20230923
+    },
+    {
+        "patient_id": 1010,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": false,
+            "children_ward": false
+        },
+        "room_no": 101,
+        "rate": 2000,
+        "date_admited": 20230917,
+        "date_discharged": 20230918
+    },
+    {
+        "patient_id": 1011,
+        "room_type": {
+            "ac": true,
+            "non_ac": false,
+            "general": false,
+            "children_ward": false
+        },
+        "room_no": 202,
+        "rate": 2000,
+        "date_admited": 20230917,
+        "date_discharged": 20230921
+    }
+]
