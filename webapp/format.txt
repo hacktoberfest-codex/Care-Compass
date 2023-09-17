@@ -1,0 +1,18 @@
+home
+Navbar
+contact
+app feature
+how it works
+benifits
+testimonials
+meet team
+faqs
+download link
+social media links
+propmt
+about us
+
+
+nav -> descriptions -> App feature -> 
+
+headline : "say goodbye to waiting rooms : seamlessly streamline  your healthcare experience"
