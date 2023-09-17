@@ -1,0 +1,476 @@
+[
+    {
+        "patient_id": 1,
+        "name": "John Doe",
+        "date_of_birth": "1980-05-15",
+        "gender": "male",
+        "blood_type": "A+",
+        "allergies": [
+            "Penicillin",
+            "Pollen"
+        ],
+        "conditions": [
+            {
+                "condition_name": "Hypertension",
+                "diagnosis_date": "2010-07-20",
+                "treatment": "Medication, diet, and exercise."
+            },
+            {
+                "condition_name": "Asthma",
+                "diagnosis_date": "1995-03-10",
+                "treatment": "Bronchodilators and inhalers."
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "Lisinopril",
+                "dosage": "10 mg daily",
+                "prescribing_doctor": "Dr. Smith"
+            },
+            {
+                "medication_name": "Albuterol",
+                "dosage": "As needed",
+                "prescribing_doctor": "Dr. Johnson"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2023-09-20",
+                "doctor": "Dr. Rodriguez",
+                "reason": "Follow-up for hypertension."
+            },
+            {
+                "appointment_date": "2023-10-15",
+                "doctor": "Dr. Patel",
+                "reason": "Asthma evaluation."
+            }
+        ]
+    },
+    {
+        "patient_id": 2,
+        "name": "Ankita Tiwari",
+        "date_of_birth": "1999-06-19",
+        "gender": "female",
+        "blood_type": "B+",
+        "allergies": [
+            "Latex",
+            "Foods"
+        ],
+        "conditions": [
+            {
+                "condition_name": "swelling and redness",
+                "diagnosis_date": "2011-09-10",
+                "treatment": "injectable epinephrine"
+            },
+            {
+                "condition_name": "oral allergy syndrome",
+                "diagnosis_date": "2019-06-06",
+                "treatment": "intramuscular epinephrine"
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "antihistamines",
+                "dosage": "50 mg intravenously",
+                "prescribing_doctor": "Dr. Lawrence"
+            },
+            {
+                "medication_name": "Chlorpheniramine",
+                "dosage": "As needed",
+                "prescribing_doctor": "Dr. Singh"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2020-09-12",
+                "doctor": "Dr. Singh",
+                "reason": "Checkup for swellings and redness."
+            },
+            {
+                "appointment_date": "2020-08-15",
+                "doctor": "Dr. Saxena",
+                "reason": "Follow up for Oral Allergy"
+            }
+        ]
+    },
+    {
+        "patient_id": 3,
+        "name": "Arti Shaw",
+        "date_of_birth": "2001-01-12",
+        "gender": "female",
+        "blood_type": "A+",
+        "allergies": [
+            "Penicillin",
+            "Pollen"
+        ],
+        "conditions": [
+            {
+                "condition_name": "Hypertension",
+                "diagnosis_date": "2010-07-20",
+                "treatment": "Medication, diet, and exercise."
+            },
+            {
+                "condition_name": "Asthma",
+                "diagnosis_date": "1995-03-10",
+                "treatment": "Bronchodilators and inhalers."
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "Lisinopril",
+                "dosage": "10 mg daily",
+                "prescribing_doctor": "Dr. Smith"
+            },
+            {
+                "medication_name": "Albuterol",
+                "dosage": "As needed",
+                "prescribing_doctor": "Dr. Johnson"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2023-09-20",
+                "doctor": "Dr. Rodriguez",
+                "reason": "Follow-up for hypertension."
+            },
+            {
+                "appointment_date": "2023-10-15",
+                "doctor": "Dr. Patel",
+                "reason": "Asthma evaluation."
+            }
+        ]
+    },
+    {
+        "patient_id": 4,
+        "name": "Sandhya Yadav",
+        "date_of_birth": "2001-01-13",
+        "gender": "female",
+        "blood_type": "AB+",
+        "allergies": [
+            "Dust"
+        ],
+        "conditions": [
+            {
+                "condition_name": "Hypertension",
+                "diagnosis_date": "2010-07-20",
+                "treatment": "Medication"
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "Lisinopril",
+                "dosage": "18 mg daily",
+                "prescribing_doctor": "Dr. Smith"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2024-09-20",
+                "doctor": "Dr. Rodriguez",
+                "reason": "Evaluation for Allergy"
+            }
+        ]
+    },
+    {
+        "patient_id": 5,
+        "name": "Srishti Singh",
+        "date_of_birth": "2001-01-15",
+        "gender": "female",
+        "blood_type": "O+",
+        "allergies": [
+            "Penicillin",
+            "Pollen"
+        ],
+        "conditions": [
+            {
+                "condition_name": "Hypertension",
+                "diagnosis_date": "2010-07-20",
+                "treatment": "Medication, diet, and exercise."
+            },
+            {
+                "condition_name": "Asthma",
+                "diagnosis_date": "1995-03-10",
+                "treatment": "Bronchodilators and inhalers."
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "Lisinopril",
+                "dosage": "10 mg daily",
+                "prescribing_doctor": "Dr. Smith"
+            },
+            {
+                "medication_name": "Albuterol",
+                "dosage": "As needed",
+                "prescribing_doctor": "Dr. Johnson"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2023-09-20",
+                "doctor": "Dr. Rodriguez",
+                "reason": "Follow-up for hypertension."
+            },
+            {
+                "appointment_date": "2023-10-15",
+                "doctor": "Dr. Patel",
+                "reason": "Asthma evaluation."
+            }
+        ]
+    },
+    {
+        "patient_id": 6,
+        "name": "Sofia Iram",
+        "date_of_birth": "2001-01-17",
+        "gender": "female",
+        "blood_type": "A-",
+        "allergies": [
+            "Penicillin",
+            "Pollen"
+        ],
+        "conditions": [
+            {
+                "condition_name": "Hypertension",
+                "diagnosis_date": "2010-07-20",
+                "treatment": "Medication, diet, and exercise."
+            },
+            {
+                "condition_name": "Asthma",
+                "diagnosis_date": "1995-03-10",
+                "treatment": "Bronchodilators and inhalers."
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "Lisinopril",
+                "dosage": "10 mg daily",
+                "prescribing_doctor": "Dr. Smith"
+            },
+            {
+                "medication_name": "Albuterol",
+                "dosage": "As needed",
+                "prescribing_doctor": "Dr. Johnson"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2023-09-20",
+                "doctor": "Dr. Rodriguez",
+                "reason": "Follow-up for hypertension."
+            },
+            {
+                "appointment_date": "2023-10-15",
+                "doctor": "Dr. Patel",
+                "reason": "Asthma evaluation."
+            }
+        ]
+    },
+    {
+        "patient_id": 7,
+        "name": "Agnisha De",
+        "date_of_birth": "2001-01-19",
+        "gender": "female",
+        "blood_type": "A+",
+        "allergies": [
+            "Penicillin",
+            "Pollen"
+        ],
+        "conditions": [
+            {
+                "condition_name": "Hypertension",
+                "diagnosis_date": "2010-07-20",
+                "treatment": "Medication, diet, and exercise."
+            },
+            {
+                "condition_name": "Asthma",
+                "diagnosis_date": "1995-03-10",
+                "treatment": "Bronchodilators and inhalers."
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "Lisinopril",
+                "dosage": "10 mg daily",
+                "prescribing_doctor": "Dr. Smith"
+            },
+            {
+                "medication_name": "Albuterol",
+                "dosage": "As needed",
+                "prescribing_doctor": "Dr. Johnson"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2023-09-20",
+                "doctor": "Dr. Rodriguez",
+                "reason": "Follow-up for hypertension."
+            },
+            {
+                "appointment_date": "2023-10-15",
+                "doctor": "Dr. Patel",
+                "reason": "Asthma evaluation."
+            }
+        ]
+    },
+    {
+        "patient_id": 8,
+        "name": "Abhishek Sharma",
+        "date_of_birth": "2001-01-22",
+        "gender": "male",
+        "blood_type": "AB+",
+        "allergies": [
+            "Penicillin",
+            "Pollen"
+        ],
+        "conditions": [
+            {
+                "condition_name": "Hypertension",
+                "diagnosis_date": "2021-08-23",
+                "treatment": "Medication, diet, and exercise."
+            },
+            {
+                "condition_name": "Asthma",
+                "diagnosis_date": "2021-09-23",
+                "treatment": "Bronchodilators and inhalers."
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "Lisinopril",
+                "dosage": "10 mg daily",
+                "prescribing_doctor": "Dr. Smith"
+            },
+            {
+                "medication_name": "Albuterol",
+                "dosage": "As needed",
+                "prescribing_doctor": "Dr. Johnson"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2023-09-20",
+                "doctor": "Dr. Rodriguez",
+                "reason": "Follow-up for hypertension."
+            },
+            {
+                "appointment_date": "2023-10-15",
+                "doctor": "Dr. Patel",
+                "reason": "Asthma evaluation."
+            }
+        ]
+    },
+    {
+        "patient_id": 9,
+        "name": "Rishav Singh",
+        "date_of_birth": "2001-01-23",
+        "gender": "male",
+        "blood_type": "AB-",
+        "allergies": [
+            "Skin Allergy"
+        ],
+        "conditions": [
+            {
+                "condition_name": "Urticaria",
+                "diagnosis_date": "2010-07-29",
+                "treatment": "Medication."
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "chlorpheniramine",
+                "dosage": "10 mg daily",
+                "prescribing_doctor": "Dr Anil"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2023-09-20",
+                "doctor": "Dr. Khan",
+                "reason": "Follow-up for Urticaria"
+            }
+        ]
+    },
+    {
+        "patient_id": 10,
+        "name": "Arzu Alam",
+        "date_of_birth": "2001-01-30",
+        "gender": "male",
+        "blood_type": "O-",
+        "allergies": [
+            "Penicillin",
+            "Pollen"
+        ],
+        "conditions": [
+            {
+                "condition_name": "Hypertension",
+                "diagnosis_date": "2010-07-20",
+                "treatment": "Medication, diet, and exercise."
+            },
+            {
+                "condition_name": "Asthma",
+                "diagnosis_date": "1995-03-10",
+                "treatment": "Bronchodilators and inhalers."
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "Lisinopril",
+                "dosage": "10 mg daily",
+                "prescribing_doctor": "Dr. Smith"
+            },
+            {
+                "medication_name": "Albuterol",
+                "dosage": "As needed",
+                "prescribing_doctor": "Dr. Johnson"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2023-09-20",
+                "doctor": "Dr. Rodriguez",
+                "reason": "Follow-up for hypertension."
+            },
+            {
+                "appointment_date": "2023-10-15",
+                "doctor": "Dr. Patel",
+                "reason": "Asthma evaluation."
+            }
+        ]
+    },
+    {
+        "patient_id": 11,
+        "name": "Arpit Pandey",
+        "date_of_birth": "2004-11-12",
+        "gender": "male",
+        "blood_type": "A+",
+        "allergies": [
+            "Drug allergy"
+        ],
+        "conditions": [
+            {
+                "condition_name": "adverse drug reaction",
+                "diagnosis_date": "2020-12-09",
+                "treatment": "Medication, diet, and exercise."
+            },
+            {
+                "condition_name": "Hives",
+                "diagnosis_date": "2020-12-09",
+                "treatment": "drug desensitization."
+            }
+        ],
+        "medications": [
+            {
+                "medication_name": "Corticosteroids",
+                "dosage": "10 mg daily",
+                "prescribing_doctor": "Dr. Smith"
+            }
+        ],
+        "appointments": [
+            {
+                "appointment_date": "2020-09-20",
+                "doctor": "Dr. Smith",
+                "reason": "Follow-up for Hives."
+            }
+        ]
+    }
+]
