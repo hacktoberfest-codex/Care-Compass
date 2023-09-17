@@ -8,7 +8,8 @@ Are you tired of long wait times, confusing paperwork, and unnecessary delays wh
 
 Our cutting-edge healthcare platform is designed to make your experience as efficient and hassle-free as possible. With our seamless system.
 
-#Key Features:
+# Key Features:
+
 **1)Real-time Hospital Allocation for Emergency Cases.**
 
 **2)Reduced Wait-Time for Appointments** 
