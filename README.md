@@ -2,7 +2,7 @@
 ## Care Compass
 <img src="carecompass.jpg" alt="My Image" height="300" width="300" >
 
-# **A Doctor-Patient Interface.**
+# A Doctor-Patient Interface.
 
 Are you tired of long wait times, confusing paperwork, and unnecessary delays when it comes to your healthcare? We understand how valuable your time is, and that's why we're here to revolutionize your healthcare journey.
 
