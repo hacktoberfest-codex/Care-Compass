@@ -139,7 +139,7 @@ class EmergencyScreen extends StatelessWidget {
             child: ListTile(
               leading: Icon(Icons.phone),
               title: Text('Emergency Contact'),
-              subtitle: Text('Call 911'),
+              subtitle: Text('Call 102'),
               onTap: () {
                 // Call emergency services
                 // Add functionality here

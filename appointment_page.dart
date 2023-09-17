@@ -95,11 +95,39 @@ class ChatScreenState extends State<ChatScreen> {
         text); // Convert the first letter of each word to uppercase
 
     if (step == 1) {
-      if (text == '1') {
-        _botProvideOptions();
-      } else if (text == '2') {
-        _botAskName();
+      bool containsNegativeKeyword = false;
+      final List<String> words = text.split(' ');
+
+      // Check each word for negative keywords
+      for (String word in words) {
+        if (word.contains('no') ||
+            word.contains("i don't") ||
+            word.contains('not') ||
+            word.contains('problem') ||
+            word.contains('Problem') ||
+            word.contains('Not') ||
+            word.contains('No') ||
+            word.contains('I don' 't') ||
+            word.contains('nope')) {
+          containsNegativeKeyword = true;
+          break; // Stop checking if a negative keyword is found
+        }
+      }
+
+      if (containsNegativeKeyword) {
+        // Display a reassuring message
+        _messages.insert(
+          0,
+          ChatMessage(
+            text: "No worries, I am here to help. Let's proceed with...",
+            isUser: false,
+          ),
+        );
+
+        _botAskName(); // Proceed with the second option
         step = 2;
+      } else {
+        _botProvideOptions(); // Proceed with the first option
       }
     } else if (step == 2) {
       _handleUserName(text);
@@ -427,7 +455,11 @@ class ChatMessage extends StatelessWidget {
               ),
               child: Text(
                 text,
-                style: TextStyle(color: Colors.white),
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 16, // Adjust the font size as needed
+                  fontWeight: FontWeight.bold, // Make text bold
+                ),
               ),
             ),
           ),
